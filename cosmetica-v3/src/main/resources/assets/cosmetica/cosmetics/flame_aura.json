@@ -1,0 +1,23 @@
+{
+ "name": "Aura de Fuego",
+ "slot": "aura",
+ "desc": "Llamas y brasas suben desde tus pies.",
+ "color": "#ff9628",
+ "rarity": "epic",
+ "particles": {
+  "sprites": [
+   "cosmetica:glow_orange",
+   "cosmetica:spark_gold"
+  ],
+  "shape": "feet",
+  "radius": 0.5,
+  "interval": 2,
+  "count": 2,
+  "rise": 0.06,
+  "size": 0.22,
+  "life": 18,
+  "alpha": 0.9,
+  "vel": 0.03,
+  "gravity": 0.0
+ }
+}

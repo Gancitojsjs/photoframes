@@ -1,0 +1,23 @@
+{
+ "name": "Aura de Tormenta",
+ "slot": "aura",
+ "desc": "Rayos azules crepitan a tu alrededor.",
+ "color": "#3674f5",
+ "rarity": "rare",
+ "particles": {
+  "sprites": [
+   "cosmetica:spark_blue",
+   "cosmetica:glow_cyan"
+  ],
+  "shape": "sphere",
+  "radius": 0.9,
+  "interval": 2,
+  "count": 1,
+  "rise": 0.0,
+  "size": 0.2,
+  "life": 8,
+  "alpha": 1.0,
+  "vel": 0.04,
+  "gravity": 0.0
+ }
+}

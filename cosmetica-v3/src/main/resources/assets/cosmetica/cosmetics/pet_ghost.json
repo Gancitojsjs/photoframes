@@ -1,0 +1,190 @@
+{
+ "name": "Fantasmita",
+ "slot": "pet",
+ "desc": "Un fantasma brillante que flota a tu lado.",
+ "color": "#e4eeff",
+ "rarity": "epic",
+ "pet": {
+  "mode": "float",
+  "scale": 0.9
+ },
+ "texture": "cosmetica:textures/cosmetic/pet_ghost.png",
+ "texture_size": [
+  64,
+  32
+ ],
+ "parts": [
+  {
+   "anchor": "root",
+   "boxes": [
+    {
+     "from": [
+      -4,
+      12,
+      -4
+     ],
+     "size": [
+      8,
+      9,
+      8
+     ],
+     "uv": [
+      0,
+      0
+     ],
+     "glow": true
+    },
+    {
+     "from": [
+      0,
+      0,
+      0
+     ],
+     "size": [
+      3,
+      3,
+      3
+     ],
+     "uv": [
+      0,
+      18
+     ],
+     "pivot": [
+      -4,
+      21,
+      -4
+     ],
+     "swing": 10,
+     "phase": 0,
+     "idle": true,
+     "glow": true
+    },
+    {
+     "from": [
+      0,
+      0,
+      0
+     ],
+     "size": [
+      3,
+      3,
+      3
+     ],
+     "uv": [
+      0,
+      18
+     ],
+     "pivot": [
+      1,
+      21,
+      -4
+     ],
+     "swing": 10,
+     "phase": 2.1,
+     "idle": true,
+     "glow": true
+    },
+    {
+     "from": [
+      0,
+      0,
+      0
+     ],
+     "size": [
+      3,
+      3,
+      3
+     ],
+     "uv": [
+      0,
+      18
+     ],
+     "pivot": [
+      -4,
+      21,
+      1
+     ],
+     "swing": 10,
+     "phase": 4.2,
+     "idle": true,
+     "glow": true
+    },
+    {
+     "from": [
+      0,
+      0,
+      0
+     ],
+     "size": [
+      3,
+      3,
+      3
+     ],
+     "uv": [
+      0,
+      18
+     ],
+     "pivot": [
+      1,
+      21,
+      1
+     ],
+     "swing": 10,
+     "phase": 1.0,
+     "idle": true,
+     "glow": true
+    },
+    {
+     "from": [
+      -1,
+      0,
+      -1
+     ],
+     "size": [
+      2,
+      5,
+      2
+     ],
+     "uv": [
+      14,
+      18
+     ],
+     "pivot": [
+      -5,
+      14,
+      0
+     ],
+     "swing": 25,
+     "phase": 0,
+     "idle": true,
+     "glow": true
+    },
+    {
+     "from": [
+      -1,
+      0,
+      -1
+     ],
+     "size": [
+      2,
+      5,
+      2
+     ],
+     "uv": [
+      14,
+      18
+     ],
+     "pivot": [
+      5,
+      14,
+      0
+     ],
+     "swing": 25,
+     "phase": 3.1416,
+     "idle": true,
+     "glow": true
+    }
+   ]
+  }
+ ]
+}

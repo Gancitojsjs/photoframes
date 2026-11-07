@@ -1,0 +1,22 @@
+{
+ "name": "Nevada Magica",
+ "slot": "aura",
+ "desc": "Copos de nieve caen suavemente sobre ti.",
+ "color": "#bee1ff",
+ "rarity": "rare",
+ "particles": {
+  "sprites": [
+   "cosmetica:snow"
+  ],
+  "shape": "above",
+  "radius": 1.4,
+  "interval": 2,
+  "count": 2,
+  "rise": -0.03,
+  "size": 0.14,
+  "life": 40,
+  "alpha": 1.0,
+  "vel": 0.01,
+  "gravity": 0.0
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "name": "Petalos de Sakura",
+ "slot": "aura",
+ "desc": "Petalos rosados caen a tu alrededor.",
+ "color": "#ffa0be",
+ "rarity": "rare",
+ "particles": {
+  "sprites": [
+   "cosmetica:petal"
+  ],
+  "shape": "above",
+  "radius": 1.6,
+  "interval": 3,
+  "count": 2,
+  "rise": -0.025,
+  "size": 0.16,
+  "life": 45,
+  "alpha": 1.0,
+  "vel": 0.02,
+  "gravity": 0.0
+ }
+}

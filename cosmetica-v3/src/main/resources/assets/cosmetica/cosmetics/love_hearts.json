@@ -1,0 +1,22 @@
+{
+ "name": "Corazones",
+ "slot": "aura",
+ "desc": "Corazones que flotan sobre tu cabeza.",
+ "color": "#ff5a8c",
+ "rarity": "rare",
+ "particles": {
+  "sprites": [
+   "cosmetica:heart"
+  ],
+  "shape": "head",
+  "radius": 0.5,
+  "interval": 6,
+  "count": 1,
+  "rise": 0.03,
+  "size": 0.2,
+  "life": 35,
+  "alpha": 1.0,
+  "vel": 0.01,
+  "gravity": 0.0
+ }
+}

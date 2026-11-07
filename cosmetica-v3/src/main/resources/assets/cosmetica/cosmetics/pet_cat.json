@@ -1,0 +1,208 @@
+{
+ "name": "Gatito Naranja",
+ "slot": "pet",
+ "desc": "Un gatito atigrado que te sigue y mueve la cola.",
+ "color": "#e8913a",
+ "rarity": "rare",
+ "pet": {
+  "mode": "ground",
+  "scale": 0.7
+ },
+ "texture": "cosmetica:textures/cosmetic/pet_cat.png",
+ "texture_size": [
+  64,
+  32
+ ],
+ "parts": [
+  {
+   "anchor": "root",
+   "boxes": [
+    {
+     "from": [
+      -3,
+      15,
+      -3
+     ],
+     "size": [
+      6,
+      5,
+      8
+     ],
+     "uv": [
+      0,
+      0
+     ]
+    },
+    {
+     "from": [
+      -3,
+      11,
+      -8
+     ],
+     "size": [
+      6,
+      5,
+      5
+     ],
+     "uv": [
+      0,
+      14
+     ]
+    },
+    {
+     "from": [
+      -3,
+      9,
+      -6
+     ],
+     "size": [
+      2,
+      2,
+      1
+     ],
+     "uv": [
+      30,
+      0
+     ]
+    },
+    {
+     "from": [
+      1,
+      9,
+      -6
+     ],
+     "size": [
+      2,
+      2,
+      1
+     ],
+     "uv": [
+      30,
+      4
+     ]
+    },
+    {
+     "from": [
+      -1,
+      0,
+      -1
+     ],
+     "size": [
+      2,
+      4,
+      2
+     ],
+     "uv": [
+      0,
+      26
+     ],
+     "pivot": [
+      -2,
+      20,
+      -2
+     ],
+     "swing": 38,
+     "phase": 0
+    },
+    {
+     "from": [
+      -1,
+      0,
+      -1
+     ],
+     "size": [
+      2,
+      4,
+      2
+     ],
+     "uv": [
+      0,
+      26
+     ],
+     "pivot": [
+      2,
+      20,
+      -2
+     ],
+     "swing": 38,
+     "phase": 3.1416
+    },
+    {
+     "from": [
+      -1,
+      0,
+      -1
+     ],
+     "size": [
+      2,
+      4,
+      2
+     ],
+     "uv": [
+      0,
+      26
+     ],
+     "pivot": [
+      -2,
+      20,
+      4
+     ],
+     "swing": 38,
+     "phase": 3.1416
+    },
+    {
+     "from": [
+      -1,
+      0,
+      -1
+     ],
+     "size": [
+      2,
+      4,
+      2
+     ],
+     "uv": [
+      0,
+      26
+     ],
+     "pivot": [
+      2,
+      20,
+      4
+     ],
+     "swing": 38,
+     "phase": 0
+    },
+    {
+     "from": [
+      -0.5,
+      -0.5,
+      0
+     ],
+     "size": [
+      1,
+      1,
+      6
+     ],
+     "uv": [
+      40,
+      0
+     ],
+     "pivot": [
+      0,
+      16,
+      5
+     ],
+     "rotate": [
+      35,
+      0,
+      0
+     ],
+     "swing": 12,
+     "phase": 0,
+     "idle": true
+    }
+   ]
+  }
+ ]
+}

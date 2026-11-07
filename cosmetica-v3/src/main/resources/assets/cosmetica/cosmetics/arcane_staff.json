@@ -1,0 +1,198 @@
+{
+ "name": "Baston Arcano",
+ "slot": "hand",
+ "desc": "Baston de madera con orbe flotante y cristales que orbitan.",
+ "color": "#763cb2",
+ "rarity": "epic",
+ "texture": "cosmetica:textures/cosmetic/arcane_staff.png",
+ "texture_size": [
+  64,
+  64
+ ],
+ "parts": [
+  {
+   "anchor": "right_arm",
+   "boxes": [
+    {
+     "from": [
+      -1.5,
+      -14,
+      -0.5
+     ],
+     "size": [
+      1,
+      36,
+      1
+     ],
+     "uv": [
+      0,
+      0
+     ]
+    },
+    {
+     "from": [
+      -2,
+      9,
+      -1
+     ],
+     "size": [
+      2,
+      2,
+      2
+     ],
+     "uv": [
+      32,
+      0
+     ]
+    },
+    {
+     "from": [
+      -2,
+      -15,
+      -1
+     ],
+     "size": [
+      2,
+      1,
+      2
+     ],
+     "uv": [
+      40,
+      0
+     ]
+    },
+    {
+     "from": [
+      -2.5,
+      -20,
+      -1.5
+     ],
+     "size": [
+      3,
+      3,
+      3
+     ],
+     "uv": [
+      4,
+      0
+     ],
+     "glow": true
+    },
+    {
+     "from": [
+      -3.5,
+      -19,
+      -2.5
+     ],
+     "size": [
+      1,
+      5,
+      1
+     ],
+     "uv": [
+      16,
+      0
+     ]
+    },
+    {
+     "from": [
+      0.5,
+      -19,
+      -2.5
+     ],
+     "size": [
+      1,
+      5,
+      1
+     ],
+     "uv": [
+      20,
+      0
+     ]
+    },
+    {
+     "from": [
+      -3.5,
+      -19,
+      1.5
+     ],
+     "size": [
+      1,
+      5,
+      1
+     ],
+     "uv": [
+      24,
+      0
+     ]
+    },
+    {
+     "from": [
+      0.5,
+      -19,
+      1.5
+     ],
+     "size": [
+      1,
+      5,
+      1
+     ],
+     "uv": [
+      28,
+      0
+     ]
+    },
+    {
+     "from": [
+      -5,
+      -22,
+      0
+     ],
+     "size": [
+      1,
+      1,
+      1
+     ],
+     "uv": [
+      48,
+      0
+     ],
+     "glow": true
+    },
+    {
+     "from": [
+      3,
+      -17,
+      -1
+     ],
+     "size": [
+      1,
+      1,
+      1
+     ],
+     "uv": [
+      52,
+      0
+     ],
+     "glow": true
+    }
+   ]
+  }
+ ],
+ "particles": {
+  "sprites": [
+   "cosmetica:glow_purple",
+   "cosmetica:spark_gold"
+  ],
+  "shape": "staff",
+  "radius": 0.2,
+  "interval": 3,
+  "count": 1,
+  "rise": 0.01,
+  "size": 0.14,
+  "life": 16,
+  "alpha": 0.9,
+  "vel": 0.02,
+  "gravity": 0.0
+ }
+}

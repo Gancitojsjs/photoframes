@@ -1,0 +1,148 @@
+{
+ "name": "Yelmo de Caballero",
+ "slot": "head",
+ "desc": "Yelmo de placas con visera, nasal, carrilleras y penacho rojo.",
+ "color": "#a0a8b6",
+ "rarity": "rare",
+ "texture": "cosmetica:textures/cosmetic/knight_helm.png",
+ "texture_size": [
+  64,
+  64
+ ],
+ "parts": [
+  {
+   "anchor": "head",
+   "boxes": [
+    {
+     "from": [
+      -4,
+      -8,
+      -4
+     ],
+     "size": [
+      8,
+      8,
+      8
+     ],
+     "uv": [
+      0,
+      0
+     ],
+     "grow": 0.6
+    },
+    {
+     "from": [
+      -0.5,
+      -6,
+      -5
+     ],
+     "size": [
+      1,
+      4,
+      1
+     ],
+     "uv": [
+      42,
+      16
+     ]
+    },
+    {
+     "from": [
+      -5.2,
+      -5,
+      -3.5
+     ],
+     "size": [
+      1,
+      5,
+      7
+     ],
+     "uv": [
+      32,
+      0
+     ]
+    },
+    {
+     "from": [
+      4.2,
+      -5,
+      -3.5
+     ],
+     "size": [
+      1,
+      5,
+      7
+     ],
+     "uv": [
+      48,
+      0
+     ]
+    },
+    {
+     "from": [
+      -1,
+      -9.5,
+      -4.5
+     ],
+     "size": [
+      2,
+      1,
+      9
+     ],
+     "uv": [
+      20,
+      16
+     ]
+    },
+    {
+     "from": [
+      -1,
+      -13.5,
+      -4
+     ],
+     "size": [
+      2,
+      4,
+      8
+     ],
+     "uv": [
+      0,
+      16
+     ]
+    },
+    {
+     "from": [
+      -1,
+      -12.5,
+      -5
+     ],
+     "size": [
+      2,
+      3,
+      1
+     ],
+     "uv": [
+      46,
+      16
+     ]
+    },
+    {
+     "from": [
+      -1,
+      -12.5,
+      4
+     ],
+     "size": [
+      2,
+      3,
+      1
+     ],
+     "uv": [
+      52,
+      16
+     ]
+    }
+   ]
+  }
+ ]
+}

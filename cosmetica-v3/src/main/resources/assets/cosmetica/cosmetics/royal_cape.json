@@ -1,0 +1,140 @@
+{
+ "name": "Capa Real",
+ "slot": "back",
+ "desc": "Capa azul con forro rojo, ribete dorado, cuello de armino y cadena.",
+ "color": "#2c42aa",
+ "rarity": "epic",
+ "texture": "cosmetica:textures/cosmetic/royal_cape.png",
+ "texture_size": [
+  64,
+  64
+ ],
+ "parts": [
+  {
+   "anchor": "body",
+   "boxes": [
+    {
+     "from": [
+      -5,
+      0,
+      0
+     ],
+     "size": [
+      10,
+      18,
+      1
+     ],
+     "uv": [
+      0,
+      0
+     ],
+     "pivot": [
+      0,
+      0.5,
+      2.2
+     ],
+     "rotate": [
+      4,
+      0,
+      0
+     ],
+     "sway": true
+    },
+    {
+     "from": [
+      -5,
+      15,
+      -0.3
+     ],
+     "size": [
+      10,
+      3,
+      2
+     ],
+     "uv": [
+      0,
+      19
+     ],
+     "pivot": [
+      0,
+      0.5,
+      2.2
+     ],
+     "rotate": [
+      4,
+      0,
+      0
+     ],
+     "sway": true
+    },
+    {
+     "from": [
+      -5,
+      -1.5,
+      -3
+     ],
+     "size": [
+      10,
+      3,
+      6
+     ],
+     "uv": [
+      22,
+      0
+     ],
+     "grow": 0.35
+    },
+    {
+     "from": [
+      -3,
+      0.5,
+      -2.8
+     ],
+     "size": [
+      6,
+      1,
+      1
+     ],
+     "uv": [
+      36,
+      19
+     ]
+    },
+    {
+     "from": [
+      -4.5,
+      -0.5,
+      -3
+     ],
+     "size": [
+      2,
+      2,
+      1
+     ],
+     "uv": [
+      24,
+      19
+     ],
+     "glow": true
+    },
+    {
+     "from": [
+      2.5,
+      -0.5,
+      -3
+     ],
+     "size": [
+      2,
+      2,
+      1
+     ],
+     "uv": [
+      30,
+      19
+     ],
+     "glow": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "cosmetica",
+  "version": "${version}",
+  "name": "Cosmetica",
+  "description": "Cosmetics-only mod: hats, capes, back items, auras, pets and importable Blockbench models. Data-driven.",
+  "environment": "client",
+  "entrypoints": { "client": ["com.cosmetica.client.CosmeticaClient"] },
+  "depends": { "fabricloader": ">=0.15.0", "minecraft": "~1.20.4", "java": ">=17", "fabric-api": "*" }
+}
